@@ -70,10 +70,13 @@ pip install matplotlib
 ## ▶️ Ejecución
 Ejecutar el archivo principal:
 ```bash
-python snell_sim.py
+python main.py
 ```
 
 ---
 
 ## 🧑‍💻 Créditos
 Proyecto desarrollado por estudiantes para la visualización interactiva de la **Ley de Snell**.
+
+## Programa compilado
+Se encuentra en dist.
