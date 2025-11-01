@@ -97,7 +97,7 @@ pip install matplotlib
 ---
 ## 🎥 Demostración en video
 
-[![Ver demostración en YouTube](https://img.youtube.com/vi/V3oPWVwPD7o/hqdefault.jpg)](https://www.youtube.com/watch?v=V3oPWVwPD7o)
+[![Ver demostración en YouTube](https://img.youtube.com/vi/iEcdB9d64R8/hqdefault.jpg)](https://www.youtube.com/watch?v=iEcdB9d64R8)
 
 ## 🧠 Bitácora de desarrollo
 
